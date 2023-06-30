@@ -3,7 +3,7 @@ import ReactTyped from "react-typed"
 
 const Hero = () => {
   return (
-    <section className="w-full h-[600px] p-8 flex flex-col gap-2 justify-center items-center">
+    <section className="w-full h-[400px] p-8 flex flex-col gap-2 justify-center items-center">
       <ReactTyped
         className="text-3xl font-medium text-center text-violet-400"
         strings={[
